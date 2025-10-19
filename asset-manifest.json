@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/medicare-plus-ecommerce/static/css/main.e1911e20.css",
+    "main.js": "/medicare-plus-ecommerce/static/js/main.fe6e5dd8.js",
+    "index.html": "/medicare-plus-ecommerce/index.html",
+    "main.e1911e20.css.map": "/medicare-plus-ecommerce/static/css/main.e1911e20.css.map",
+    "main.fe6e5dd8.js.map": "/medicare-plus-ecommerce/static/js/main.fe6e5dd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1911e20.css",
+    "static/js/main.fe6e5dd8.js"
+  ]
+}
